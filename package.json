@@ -1,0 +1,13 @@
+{
+  "name": "e-commerce",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {},
+  "dependencies": {
+    "animate.css": "^4.1.1",
+    "materialize-css": "^1.0.0-rc.2"
+  },
+  "devDependencies": {
+    "tailwindcss": "^1.8.9"
+  }
+}
